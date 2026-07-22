@@ -113,15 +113,6 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of your project here.
-
-* Home Page
-* Prediction Result
-* Data Visualization
-
----
 
 ## 🔮 Future Improvements
 
