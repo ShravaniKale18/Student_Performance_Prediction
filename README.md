@@ -6,14 +6,22 @@ A beginner Machine Learning project that predicts a student's final exam score b
 
 This project was developed as part of my AI & Machine Learning Internship. It demonstrates the basic machine learning workflow, including:
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Feature Encoding
-* Model Training
-* Model Evaluation
-* Saving the trained model using Pickle
-* Building a simple Streamlit web application
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Feature Encoding
+- Model Training
+- Model Evaluation
+- Saving the trained model using Pickle
+- Building a simple Streamlit web application
+
+---
+
+## 🌐 Live Demo
+
+🚀 **Try the application here:**
+
+**https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/**
 
 ---
 
@@ -21,49 +29,49 @@ This project was developed as part of my AI & Machine Learning Internship. It de
 
 The dataset contains the following features:
 
-* Gender
-* Age
-* Study Hours Per Day
-* Attendance Percentage
-* Previous Exam Score
-* Assignments Completed
-* Sleep Hours
-* Social Media Hours
-* Extra Curricular Activities
-* Stress Level
+- Gender
+- Age
+- Study Hours Per Day
+- Attendance Percentage
+- Previous Exam Score
+- Assignments Completed
+- Sleep Hours
+- Social Media Hours
+- Extra Curricular Activities
+- Stress Level
 
-**Target Variable**
+### **Target Variable**
 
-* Final Exam Score
+- Final Exam Score
 
 ---
 
 ## 🛠️ Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
-* Streamlit
-* Pickle
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Streamlit
+- Pickle
 
 ---
 
 ## 📊 Machine Learning Model
 
-* Linear Regression
+- Linear Regression
 
 ### Evaluation Metrics
 
-* Mean Absolute Error (MAE)
-* Mean Squared Error (MSE)
-* Root Mean Squared Error (RMSE)
-* R² Score
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+- R² Score
 
-**Model Performance**
+### Model Performance
 
-* **R² Score:** 0.89
+- **R² Score:** **0.89**
 
 ---
 
@@ -113,13 +121,12 @@ streamlit run app.py
 
 ---
 
-
 ## 🔮 Future Improvements
 
-* Compare multiple regression models.
-* Deploy the application on Streamlit Community Cloud.
-* Improve the user interface.
-* Add more input features.
+- Compare multiple regression models.
+- Deploy the application on Streamlit Community Cloud.
+- Improve the user interface.
+- Add more input features.
 
 ---
 
@@ -128,3 +135,7 @@ streamlit run app.py
 **Shravani Kale**
 
 AI & Machine Learning Intern
+
+### 🌐 Live Application
+
+https://studentperformancepredictiongit-k4imk48jsqqto8qhtbgd29.streamlit.app/
